@@ -1,9 +1,9 @@
-🌸 Glamour Touch – Professional Makeup Studio
+## 🌸 Glamour Touch – Professional Makeup Studio
 
 A modern, elegant, and fully responsive website for Glamour Touch, a premium makeup studio offering bridal, editorial, glam, grooming, and training services.
 This website is designed with smooth animations, a luxurious color palette, and user-friendly navigation to provide clients with a high-end beauty experience online.
 
-✨ Features
+## ✨ Features
 🔹 Modern UI/UX
 
 Clean, luxurious design with soft pink and gold tones
