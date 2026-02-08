@@ -12,7 +12,7 @@ Smooth animations and hover effects
 
 Fully responsive for mobile, tablet, and desktop
 
-🔹 Interactive Landing Section
+## 🔹 Interactive Landing Section
 
 Hero banner with tagline
 
@@ -91,7 +91,7 @@ Social media
 
 Copyright section
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML5
 
