@@ -4,7 +4,7 @@ A modern, elegant, and fully responsive website for Glamour Touch, a premium mak
 This website is designed with smooth animations, a luxurious color palette, and user-friendly navigation to provide clients with a high-end beauty experience online.
 
 ## ✨ Features
-🔹 Modern UI/UX
+## 🔹 Modern UI/UX
 
 Clean, luxurious design with soft pink and gold tones
 
@@ -20,7 +20,7 @@ Call-to-Action buttons (Book Appointment, View Services)
 
 Floating glass-effect navigation menu
 
-🔹 Services Section
+ ## 🔹 Services Section
 
 Bridal Makeup
 
@@ -39,7 +39,7 @@ Each service card includes:
 ✔ Description
 ✔ Price
 
-🔹 About Us Section
+## 🔹 About Us Section
 
 Studio introduction
 
@@ -49,7 +49,7 @@ Mission & philosophy
 
 Call-to-action button (Meet Our Team)
 
-🔹 Artists / Team Section
+## 🔹 Artists / Team Section
 
 Team member photos
 
@@ -57,7 +57,7 @@ Roles & specializations
 
 Social media links
 
-🔹 Gallery Section
+## 🔹 Gallery Section
 
 Grid-based photo gallery
 
@@ -65,7 +65,7 @@ Hover zoom effects
 
 High-quality makeup portfolio
 
-🔹 Testimonials
+## 🔹 Testimonials
 
 Client reviews
 
@@ -73,7 +73,7 @@ Profile images & roles
 
 Glass-blur testimonial cards
 
-🔹 Contact Form
+## 🔹 Contact Form
 
 Name, email, subject, and message fields
 
@@ -81,7 +81,7 @@ Drop-down service selection
 
 Clean and user-friendly form UI
 
-🔹 Footer
+## 🔹 Footer
 
 Studio details
 
@@ -98,6 +98,15 @@ HTML5
 CSS3
 
 Font Awesome Icons
+
+
+
+
+
+
+
+
+
 
 Google Fonts (Montserrat, Playfair Display)
 
